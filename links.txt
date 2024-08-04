@@ -1,6 +1,6 @@
 https://gist.githubusercontent.com/imoyy/732d3aa59e84f954e961a3424809b4d5/raw/special_sites.list
 https://gist.githubusercontent.com/imoyy/82e531685b2e5761357cb622840f0765/raw/semby.list
-
+https://gist.github.com/imoyy/82e531685b2e5761357cb622840f0765/raw/AIs.yaml
 
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
 
