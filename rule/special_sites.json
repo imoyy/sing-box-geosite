@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "alive.bar",
+        "bgme.me",
+        "chinadigitaltimes.net",
+        "nytimes.com",
+        "wxw.moe"
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "stream1.misakaf.org",
+        "stream2.misakaf.org",
+        "stream3.misakaf.org",
+        "stream4.misakaf.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "niceduck.lol"
+      ]
+    }
+  ],
+  "version": 1
+}
