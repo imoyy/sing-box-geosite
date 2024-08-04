@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 
 https://ruleset.skk.moe/Clash/domainset/cdn.txt
-https://ruleset.skk.moe/Clash/non_ip/ai.txt
+# https://ruleset.skk.moe/Clash/non_ip/ai.txt
 https://ruleset.skk.moe/Clash/non_ip/telegram.txt
 https://ruleset.skk.moe/Clash/domainset/download.txt
 
@@ -26,5 +26,7 @@ https://github.com/Repcz/Tool/raw/X/Clash/Rules/Cloudflare.list
 
 
 https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/HTTPDNS.Block.yaml
-https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/1PasswordUS.yaml
 
+
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/1PasswordUS.yaml
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AI.yaml
