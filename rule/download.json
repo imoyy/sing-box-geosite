@@ -171,6 +171,7 @@
         "registry.fedoraproject.org",
         "releases.arc.net",
         "releases.grapheneos.org",
+        "releases.obsidian.md",
         "releases.whatpulse.org",
         "repo.carbon.sh",
         "repo.powerdns.com",
@@ -191,6 +192,7 @@
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "update.code.visualstudio.com",
         "update.googleapis.com",
+        "update.sleazyfork.org",
         "xvcf1.xboxlive.com",
         "xvcf2.xboxlive.com"
       ]
