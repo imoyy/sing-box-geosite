@@ -10,6 +10,8 @@
         "api-updates.orbstack.dev",
         "app-updates.agilebits.com",
         "artifacts.electronjs.org",
+        "aus2-community.mozilla.org",
+        "aus5.mozilla.org",
         "ava6.androidfilehost.com",
         "az764295.vo.msecnd.net",
         "binary-factory.kde.org",
@@ -198,6 +200,7 @@
         "update.googleapis.com",
         "update.sleazyfork.org",
         "updates.istatmenus.app",
+        "versioncheck-bg.addons.mozilla.org",
         "xvcf1.xboxlive.com",
         "xvcf2.xboxlive.com"
       ]
