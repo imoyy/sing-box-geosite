@@ -9,7 +9,6 @@
         "api.githubcopilot.com",
         "bard.google.com",
         "chat.mistral.ai",
-        "chat.openai.com.cdn.cloudflare.net",
         "console.mistral.ai",
         "copilot-proxy.githubusercontent.com",
         "copilot.microsoft.com",
@@ -28,6 +27,7 @@
     },
     {
       "domain_suffix": [
+        "ai.com",
         "anthropic.com",
         "chatgpt.com",
         "claude.ai",
@@ -38,6 +38,7 @@
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
+        "openai.com.cdn.cloudflare.net",
         "perplexity.ai"
       ]
     },
