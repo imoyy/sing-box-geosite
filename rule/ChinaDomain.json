@@ -22,6 +22,15 @@
       ]
     },
     {
+      "domain_regex": [
+        "*.ffzy-online?.com",
+        "*.ffzy-play?.com",
+        "*.lz-cdn?.com",
+        "*.lz-cdn??.com",
+        "*.qhimgs?.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "10010.com",
         "10086.cn",
