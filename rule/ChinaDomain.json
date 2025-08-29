@@ -25,10 +25,6 @@
     },
     {
       "domain_regex": [
-        "*.ffzy-online?.com",
-        "*.ffzy-play?.com",
-        "*.lz-cdn?.com",
-        "*.lz-cdn??.com",
         "*.qhimgs?.com"
       ]
     },
